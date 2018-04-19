@@ -1,0 +1,3 @@
+[submodule "yue-sample-apps"]
+	path = yue-sample-apps
+	url = https://github.com/yue/yue-sample-apps.git
